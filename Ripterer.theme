@@ -1,3 +1,5 @@
+//META{"name":"Ripterer","description":"A costum theme.","author":"Ripterer","version":"0.1"}*//
+@import url("https://rawgit.com/0mniscient/Discord-Themes/master/css/Discord%20Reborn.css");
 :root {
 	--main-color: #e41b1b;
 	--hover-color: #991a1a;
